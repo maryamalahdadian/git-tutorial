@@ -1,0 +1,28 @@
+.select{
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 9px 12px;
+  gap: 8px;
+  position: absolute;
+
+  left: 80px;
+  right: 80px;
+  top: 10px;
+
+
+  width: 72px;
+  height: 36px;
+
+  background: #FFFFFF;
+  border: 1px solid #E0E7ED;
+  border-radius: 8px;
+
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
